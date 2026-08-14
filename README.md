@@ -6,14 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
+- [dsu](#dsu) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
@@ -26,12 +29,30 @@
 |---|---------|------------|----------|
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1167/C%20-%20News%20Distribution/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1167/C%20-%20News%20Distribution/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1167/C%20-%20News%20Distribution/solution.cpp) |
 
 ### greedy
 
