@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 
 ---
 
@@ -37,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 
 ### math
@@ -49,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 
 ---
