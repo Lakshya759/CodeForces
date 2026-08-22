@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 12 |
+| 9 | 14 |
 
 ---
 
@@ -18,8 +18,10 @@
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
+- [expression parsing](#expression-parsing) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (3)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
@@ -67,6 +69,12 @@
 |---|---------|------------|----------|
 | 1167C | [News Distribution](https://codeforces.com/contest/1167/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1167/C%20-%20News%20Distribution/solution.cpp) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+
 ### graphs
 
 | # | Problem | Difficulty | Solution |
@@ -80,6 +88,12 @@
 | 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1110/B%20-%20Tape/solution.cpp) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 
 ### math
 
