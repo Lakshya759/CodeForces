@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 15 |
+| 12 | 15 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (3)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (1)
@@ -89,6 +89,7 @@
 | 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1110/B%20-%20Tape/solution.cpp) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+| 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 
 ### implementation
 
@@ -103,6 +104,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+| 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 
 ### number theory
 
