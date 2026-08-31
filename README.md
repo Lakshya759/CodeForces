@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 18 |
+| 15 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
@@ -24,8 +25,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
-- [math](#math) (2)
-- [number theory](#number-theory) (1)
+- [math](#math) (3)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
@@ -38,6 +39,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 
 ### combinatorics
 
@@ -121,6 +128,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 
 ### number theory
@@ -128,6 +136,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 
 ### sortings
 
