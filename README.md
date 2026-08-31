@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 18 |
+| 14 | 18 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [graphs](#graphs) (1)
@@ -78,6 +78,7 @@
 | 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.cpp) |
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+| 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
 
 ### dsu
 
