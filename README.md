@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 19 |
+| 19 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (2)
-- [brute force](#brute-force) (3)
+- [binary search](#binary-search) (3)
+- [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (5)
@@ -30,7 +30,7 @@
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -38,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 
@@ -45,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
@@ -67,6 +69,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
 
@@ -173,6 +176,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 
 ---
