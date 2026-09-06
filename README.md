@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 20 |
+| 25 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (4)
@@ -23,10 +23,11 @@
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
+- [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (4)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
@@ -60,6 +61,7 @@
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 
 ### combinatorics
 
@@ -118,6 +120,12 @@
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+
 ### graphs
 
 | # | Problem | Difficulty | Solution |
@@ -151,6 +159,7 @@
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 
 ### number theory
 
