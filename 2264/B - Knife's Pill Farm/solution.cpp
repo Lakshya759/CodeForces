@@ -1,63 +1,59 @@
+// Problem: B. Knife's Pill Farm
+// Contest: Codeforces - Codeforces Round 1121 (Div. 2)
+// URL: https://codeforces.com/contest/2264/problem/B
+// Memory Limit: 256 MB
+// Time Limit: 1500 ms
+// 
+// Powered by CP Editor (https://cpeditor.org)
+ 
 #include <bits/stdc++.h>
 using namespace std;
+#define int long long
+#define INT_MAX LLONG_MAX
+#define INT_MIN LLONG_MIN
+#define all(v) v.begin(), v.end()
+#define rall(v) v.rbegin(),v.rend()
+#define pb push_back
+#define sz(a) (int)a.size()
  
-using ll = long long;
+#define fori(i,a,d) for(int i=a; i<d; i++)
+#define ford(i,a,d) for(int i=a; i>=d; i--)
+#define v(a,n) vector<int>a(n);
+int32_t main() {
+	// your code goes here
+	int t ;
+	cin>>t;
+	while(t--){
+	    //enter the code
+	    int n,m;
+	    cin>>n>>m;
+	    v(a,n);
+	    fori(i,0,n){
+	    	cin>>a[i];
+	    }
+	    if(m==1){
+	    	cout<<*max_element(a.begin(), a.end())<<endl;
+	    	continue;
+	    }
+	    priority_queue<int> pq;
+	    int sum=0;
+	    fori(i,0,m-1){
+	    	pq.push(a[i]);
+	    	sum+=a[i];
+	    }
+	    int res=INT_MIN;
+	    fori(i,m-1,n){
+	    	int x=(m*a[i])-sum;
+	    	res=max(res,x);
+	    	if(a[i]<pq.top()){
+	    		sum-=pq.top();
+	    		sum+=a[i];
+	    		pq.pop();pq.push(a[i]);
+	    		
+	    	}
+	    }
+	    cout<<res<<endl;
+	    
+	}
  
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
- 
-    int t;
-    cin >> t;
- 
-    while (t--) {
-        int n, m;
-        cin >> n >> m;
- 
-        vector<ll> a(n);
-        for (ll &x : a) cin >> x;
- 
-        // We select exactly one element.
-        if (m == 1) {
-            cout << *max_element(a.begin(), a.end()) << '
-';
-            continue;
-        }
- 
-        // Max heap: maintains the smallest m-1 elements seen so far.
-        priority_queue<ll> pq;
- 
-        ll sum = 0;
- 
-        // First m-1 elements
-        for (int i = 0; i < m - 1; i++) {
-            pq.push(a[i]);
-            sum += a[i];
-        }
- 
-        ll ans = LLONG_MIN;
- 
-        for (int i = m - 1; i < n; i++) {
- 
-            // a[i] is chosen as the m-th (last) element.
-            ll score = m * a[i] - sum;
- 
-            ans = max(ans, score);
- 
-            // Add a[i] to the pool for future positions.
-            // Keep only the smallest m-1 elements.
-            if (a[i] < pq.top()) {
-                sum -= pq.top();
-                pq.pop();
- 
-                pq.push(a[i]);
-                sum += a[i];
-            }
-        }
- 
-        cout << ans << '
-';
-    }
- 
-    return 0;
 }
