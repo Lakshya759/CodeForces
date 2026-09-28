@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 21 |
+| 37 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (5)
@@ -26,7 +26,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (9)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
@@ -66,6 +66,7 @@
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### combinatorics
 
@@ -163,6 +164,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### math
 
