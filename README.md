@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 22 |
+| 46 | 22 |
 
 ---
 
@@ -17,23 +17,23 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (7)
 - [math](#math) (11)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -88,6 +88,7 @@
 |---|---------|------------|----------|
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
 
 ### data structures
@@ -123,6 +124,7 @@
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
 | 2225C | [Red-Black Pairs](https://codeforces.com/contest/2225/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/C%20-%20Red-Black%20Pairs/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### dsu
 
@@ -166,6 +168,7 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
@@ -218,6 +221,7 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### strings
 
@@ -239,6 +243,7 @@
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ---
 
