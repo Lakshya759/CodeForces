@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 22 |
+| 53 | 22 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (8)
@@ -27,7 +27,7 @@
 - [games](#games) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (20)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (11)
@@ -105,6 +105,7 @@
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### dfs and similar
 
@@ -196,6 +197,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### math
 
