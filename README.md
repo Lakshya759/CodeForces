@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 22 |
+| 63 | 22 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (8)
+- [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -26,11 +26,11 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (26)
+- [greedy](#greedy) (27)
 - [implementation](#implementation) (12)
 - [math](#math) (16)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [strings](#strings) (3)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (4)
@@ -99,6 +99,7 @@
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### data structures
 
@@ -196,6 +197,7 @@
 | 2278D | [Lock and Unlock](https://codeforces.com/contest/2278/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2278/D%20-%20Lock%20and%20Unlock/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### implementation
 
@@ -263,6 +265,7 @@
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### strings
 
