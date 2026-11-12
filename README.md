@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 22 |
+| 69 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (9)
@@ -53,6 +53,7 @@
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### binary search
 
