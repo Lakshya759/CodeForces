@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 22 |
+| 65 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (9)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (9)
+- [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -59,6 +59,7 @@
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 2145C | [Monocarp's String](https://codeforces.com/contest/2145/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2145/C%20-%20Monocarp's%20String/solution.cpp) |
+| 2146C | [Wrong Binary Search](https://codeforces.com/contest/2146/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2146/C%20-%20Wrong%20Binary%20Search/solution.cpp) |
 
 ### bitmasks
 
@@ -96,6 +97,7 @@
 | 2119C | [A Good Problem](https://codeforces.com/contest/2119/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2119/C%20-%20A%20Good%20Problem/solution.cpp) |
 | 2124C | [Subset Multiplication](https://codeforces.com/contest/2124/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2124/C%20-%20Subset%20Multiplication/solution.cpp) |
 | 2143C | [Max Tree](https://codeforces.com/contest/2143/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2143/C%20-%20Max%20Tree/solution.cpp) |
+| 2146C | [Wrong Binary Search](https://codeforces.com/contest/2146/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2146/C%20-%20Wrong%20Binary%20Search/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
