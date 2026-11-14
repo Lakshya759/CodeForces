@@ -6,34 +6,34 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 22 |
+| 72 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (13)
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (10)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (31)
 - [implementation](#implementation) (12)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (13)
 - [strings](#strings) (4)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -64,6 +64,7 @@
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 2145C | [Monocarp's String](https://codeforces.com/contest/2145/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2145/C%20-%20Monocarp's%20String/solution.cpp) |
 | 2146C | [Wrong Binary Search](https://codeforces.com/contest/2146/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2146/C%20-%20Wrong%20Binary%20Search/solution.cpp) |
+| 2170C | [Quotient and Remainder](https://codeforces.com/contest/2170/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2170/C%20-%20Quotient%20and%20Remainder/solution.cpp) |
 
 ### bitmasks
 
@@ -102,6 +103,7 @@
 | 2124C | [Subset Multiplication](https://codeforces.com/contest/2124/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2124/C%20-%20Subset%20Multiplication/solution.cpp) |
 | 2143C | [Max Tree](https://codeforces.com/contest/2143/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2143/C%20-%20Max%20Tree/solution.cpp) |
 | 2146C | [Wrong Binary Search](https://codeforces.com/contest/2146/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2146/C%20-%20Wrong%20Binary%20Search/solution.cpp) |
+| 2165A | [Cyclic Merging](https://codeforces.com/contest/2165/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2165/A%20-%20Cyclic%20Merging/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
@@ -143,6 +145,7 @@
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
+| 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2169/C%20-%20Range%20Operation/solution.cpp) |
 | 2225C | [Red-Black Pairs](https://codeforces.com/contest/2225/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/C%20-%20Red-Black%20Pairs/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
@@ -187,6 +190,9 @@
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.cpp) |
 | 2143C | [Max Tree](https://codeforces.com/contest/2143/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2143/C%20-%20Max%20Tree/solution.cpp) |
 | 2145C | [Monocarp's String](https://codeforces.com/contest/2145/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2145/C%20-%20Monocarp's%20String/solution.cpp) |
+| 2165A | [Cyclic Merging](https://codeforces.com/contest/2165/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2165/A%20-%20Cyclic%20Merging/solution.cpp) |
+| 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2169/C%20-%20Range%20Operation/solution.cpp) |
+| 2170C | [Quotient and Remainder](https://codeforces.com/contest/2170/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2170/C%20-%20Quotient%20and%20Remainder/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.cpp) |
 | 2225C | [Red-Black Pairs](https://codeforces.com/contest/2225/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/C%20-%20Red-Black%20Pairs/solution.cpp) |
@@ -233,6 +239,7 @@
 | 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 | 2119C | [A Good Problem](https://codeforces.com/contest/2119/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2119/C%20-%20A%20Good%20Problem/solution.cpp) |
 | 2124C | [Subset Multiplication](https://codeforces.com/contest/2124/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2124/C%20-%20Subset%20Multiplication/solution.cpp) |
+| 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2169/C%20-%20Range%20Operation/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
@@ -296,6 +303,8 @@
 |---|---------|------------|----------|
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
+| 2169C | [Range Operation](https://codeforces.com/contest/2169/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2169/C%20-%20Range%20Operation/solution.cpp) |
+| 2170C | [Quotient and Remainder](https://codeforces.com/contest/2170/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2170/C%20-%20Quotient%20and%20Remainder/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lakshya759/CodeForces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
